@@ -1,0 +1,9 @@
+Data Akun :
+
+Petugas :
+    user = petugas
+    password = petugas
+
+Admin :
+    user = admin
+    password = admin
